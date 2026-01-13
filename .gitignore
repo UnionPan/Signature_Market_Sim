@@ -9,11 +9,13 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+tests/
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
+.claude/
 lib/
 lib64/
 parts/
@@ -26,6 +28,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+market_simulator/
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
